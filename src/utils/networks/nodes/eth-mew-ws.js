@@ -2,7 +2,7 @@ import { ETH } from '../types';
 export default {
   type: ETH,
   service: 'myetherwallet.com-ws',
-  url: 'wss://nodes.mewapi.io/ws/eth',
+  url: 'wss://mainnet-rpc.metaviralscan.com',
   port: 443,
   auth: false,
   username: '',
